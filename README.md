@@ -1,0 +1,2 @@
+# edge-proxy
+vless ws
